@@ -1,4 +1,4 @@
-# Flask Kanban Board
+# Kanban Pro
 Simple Flask Kanban Board for managing your to-do list
 
 ## Features
